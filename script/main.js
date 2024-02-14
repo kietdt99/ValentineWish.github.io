@@ -185,13 +185,13 @@ const animationTimeline = () => {
       ".girl-dp",
       0.5,
       {
-        scale: 1,
+        scale: 3.5,
         opacity: 0,
-        x: 10,
-        y: -10,
+        x: 0,
+        y: 0,
         rotationZ: -45,
       },
-      "-=2"
+      "-=1"
     )
     .from(".hat", 0.5, {
       x: -100,
