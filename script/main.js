@@ -252,7 +252,7 @@ const animationTimeline = () => {
     )
     .to(".six", 0.5, {
       opacity: 0,
-      y: 10,
+      y: 30,
       zIndex: "-1",
     })
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
