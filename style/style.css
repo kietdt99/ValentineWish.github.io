@@ -30,7 +30,7 @@ body {
   top: 0;
 }
 
-.container>div {
+.container > div {
   position: absolute;
   left: 0;
   right: 0;
@@ -41,7 +41,7 @@ body {
   font-size: 4.5rem;
 }
 
-.one>img {
+.one > img {
   vertical-align: middle;
   margin-bottom: 10px;
   max-width: 100%;
@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 50%;
+  max-width: 45%;
   height: auto;
 }
 
