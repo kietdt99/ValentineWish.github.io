@@ -231,6 +231,8 @@ body {
 #replay {
   z-index: 3;
   cursor: pointer;
+  border-radius: 3px;
+  display: inline-block;
 }
 
 /* Media Queries */
